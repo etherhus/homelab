@@ -1,0 +1,10 @@
+# virtual machine images and ISOs
+*.vdi
+*.iso
+*.ova
+# system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+# secrets
+.env
