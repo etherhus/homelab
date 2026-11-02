@@ -14,5 +14,6 @@ My learning notes and exercises
 
 ## Progress
 - [x] Day 01: Linux VM, SSH, Network Basics (`journal/day01.md`)
+- [x] Day 02: Commands, permissions, nginx service, ssh keygen (`journal/day02.md`)
 
 ## Projects (planned)

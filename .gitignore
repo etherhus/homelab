@@ -1,10 +1,13 @@
-# virtual machine images and ISOs
-*.vdi
-*.iso
-*.ova
-# system and editor files
-.DS_Store
-Thumbs.db
-.vscode/
-# secrets
+__pycache__/
+*.pyc
+.venv/
+venv/
 .env
+*.pem
+id_rsa*
+id_ed25519*
+Thumbs.db
+.DS_Store
+.vscode/
+*.log
+*.key
